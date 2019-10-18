@@ -4,6 +4,7 @@
 
 The circulation in the Southern Ocean is important for global climate, meridional overturning circulation, and stratification. Its capacity for heat uptake and its influence on global overturning make it an important driver for heat and carbon redistribution in the global ocean system. Climate models often poorly simulate bottom water formation in the Southern Ocean (see figure below), creating bottom water with densities that differ from climatology or getting the right amount of bottom water with the right properties for the wrong reasons. In the CMIP5 models, no models produced deep Antarctic water on the shelf and allowing it to spill over and convect, rather, models generate deep water through open ocean deep convection. Also, those models with strong sea ice seasonality have spurious deep convection (Huezé et al, 2013). Diagnosing the deep convection process and the bottom water formation in CMIP6 models is an important step in identifying models that can accurately simulate future Southern Ocean properties as well as future global climate changes.
 
+![Image of Heuze Fig 2](https://github.com/s-ragen/cmip6hack-so-project/blob/master/hueze2013.jpg)
 
 ### What's included?
 
