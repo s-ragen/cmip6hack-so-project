@@ -1,7 +1,8 @@
 # CMIP6 Hackathon Project: SO Overturning and Sea Ice
 
-This is the repository for the CMIP6 Southern Ocean bottom water formation and sea ice extent hackathon project.
-The goal of this project is to diagnose the SO bottom water formation in CMIP6 models and the impact this has on the overturning and transport in the region. We also hope to see whether there are links between bottom water formation and sea ice concentration and whether there are any mechanisms that link the two, perhaps through overturning or transport. 
+### Scientific Motivation:
+
+The circulation in the Southern Ocean is important for global climate, meridional overturning circulation, and stratification. Its capacity for heat uptake and its influence on global overturning make it an important driver for heat and carbon redistribution in the global ocean system. Climate models often poorly simulate bottom water formation in the Southern Ocean (see figure below), creating bottom water with densities that differ from climatology or getting the right amount of bottom water with the right properties for the wrong reasons. In the CMIP5 models, no models produced deep Antarctic water on the shelf and allowing it to spill over and convect, rather, models generate deep water through open ocean deep convection. Also, those models with strong sea ice seasonality have spurious deep convection (Huezé et al, 2013). Diagnosing the deep convection process and the bottom water formation in CMIP6 models is an important step in identifying models that can accurately simulate future Southern Ocean properties as well as future global climate changes.
 
 
 ### What's included?
